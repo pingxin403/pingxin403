@@ -50,9 +50,16 @@ Patterns        Multi-tenancy (RLS / PartitionKey) · Distributed locks ·
 
 #### Contact / 联系方式
 
-- 📫 Email — see resume / 见简历（HR 渠道）
+- 📫 Email — `pingxin0521 [at] 163.com`
 - 💼 GitHub — you're here
-- 🇨🇳 Open to: backend / platform engineering / AI infra opportunities (Shenzhen, remote, or freelance)
+- 🌏 Open to opportunities — backend / platform engineering / AI infra. Based in Shenzhen 🇨🇳; comfortable with remote and freelance, EN/中文 working language.
+
+<!-- TODO: add LinkedIn / personal site / Medium when ready -->
+<!-- TODO: consider adding GitHub stats card / language badges if a clean style is found -->
+<!-- TODO: revisit pricing/availability disclosure for freelance once positioning is final -->
+<!-- TODO: add open-source contribution highlights once any non-trivial PR lands upstream -->
+<!-- TODO: pin layout review — re-order pinned repos as portfolio evolves -->
+<!-- TODO: review every 3 months for drift between resume and showcases -->
 
 ---
 
