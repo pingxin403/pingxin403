@@ -19,9 +19,18 @@ Backend engineer focused on **microservices governance**, **platform engineering
 
 #### Architecture showcases / 公开作品
 
-| Project | Stack | What it shows |
+Three docs-only showcases form a triangle covering my main practice areas:
+
+| Showcase | Focus | What it shows |
 |---|---|---|
-| **[cuckoo-echo-showcase](https://github.com/pingxin403/cuckoo-echo-showcase)** | FastAPI · LangGraph · Milvus · PostgreSQL RLS | Multi-tenant AI customer-service SaaS — architecture docs, 9 ADRs, 3 production runbooks. Source repo private; access by invitation. |
+| **[cuckoo-echo-showcase](https://github.com/pingxin403/cuckoo-echo-showcase)** | Multi-tenant AI SaaS architecture | FastAPI · LangGraph · Milvus · PostgreSQL RLS. 9 ADRs + 3 production runbooks. Companion source repo private. |
+| **[cicd-platform-showcase](https://github.com/pingxin403/cicd-platform-showcase)** | CI/CD & release governance | 4 ADRs (incremental CI, ArgoCD GitOps, multi-lane staging, canary+SLO) + 3 sanitized GitHub Actions templates. |
+| **[observability-platform-showcase](https://github.com/pingxin403/observability-platform-showcase)** | Observability platform | 4 ADRs (OTel, structured-logging contract, alert layering, tail-sampling) + sample Prometheus rules. |
+
+Code-bearing repositories:
+
+| Project | Stack | What it is |
+|---|---|---|
 | **[cuckoo](https://github.com/pingxin403/cuckoo)** | Go · gRPC · Protobuf · K8s | Polyglot microservices monorepo — IM chat, URL shortener, unified auth. Envoy gateway, Kafka, etcd, full observability stack. |
 | **[cuckoo-microservices](https://github.com/pingxin403/cuckoo-microservices)** | Spring Boot 3 · Spring Cloud Alibaba · Nacos · Seata | Java microservices learning project — service registry, distributed transactions, Sentinel circuit breaking, OpenTelemetry tracing. |
 | **[platform-console](https://github.com/pingxin403/platform-console)** | Backstage · TypeScript · ArgoCD | Internal Developer Platform reference impl — service catalog, golden-path templates, observability integration. |
