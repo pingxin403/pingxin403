@@ -27,6 +27,13 @@ Three docs-only showcases form a triangle covering my main practice areas:
 | **[cicd-platform-showcase](https://github.com/pingxin403/cicd-platform-showcase)** | CI/CD & release governance | 4 ADRs (incremental CI, ArgoCD GitOps, multi-lane staging, canary+SLO) + 3 sanitized GitHub Actions templates. |
 | **[observability-platform-showcase](https://github.com/pingxin403/observability-platform-showcase)** | Observability platform | 4 ADRs (OTel, structured-logging contract, alert layering, tail-sampling) + sample Prometheus rules. |
 
+Starter templates / 模板项目:
+
+| Template | Stack | What it is |
+|---|---|---|
+| **[langgraph-agent-template](https://github.com/pingxin403/langgraph-agent-template)** | LangGraph · FastAPI · SSE · Docker | Clone-and-run Agent skeleton — 4-node graph (router→rag/tool→reply), RAG stub, tool scaffold, streaming. `docker compose up` → works. |
+| **[fastapi-backend-template](https://github.com/pingxin403/fastapi-backend-template)** | FastAPI · PostgreSQL · Redis · Celery · Docker | Opinionated CRUD backend starter — JWT auth, Alembic, rate limiter, Celery worker. `clone → .env → docker compose up` → building. |
+
 Code-bearing repositories:
 
 | Project | Stack | What it is |
