@@ -66,6 +66,12 @@ Patterns        Multi-tenancy (RLS / PartitionKey) · Distributed locks ·
 
 #### Contact / 联系方式
 
+#### Support / 赞助
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/pingxin403)
+[![爱发电](https://img.shields.io/badge/爱发电-Support-946CE6?logo=appveyor&logoColor=white)](https://ifdian.net/a/pingxin403)
+
+
 - 📫 Email — `pingxin0521 [at] 163.com`
 - 💼 GitHub — you're here
 - 🌏 Open to opportunities — backend / platform engineering / AI infra. Based in Shenzhen 🇨🇳; comfortable with remote and freelance, EN/中文 working language.
