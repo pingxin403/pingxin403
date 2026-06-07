@@ -64,13 +64,12 @@ Patterns        Multi-tenancy (RLS / PartitionKey) · Distributed locks ·
 - **CI/CD platform** — GitHub Actions custom actions; CI build time 18 min → 6 min; Flagger canary tied to SLO + error budget; one-click rollback
 - **Observability platform** — OTel-based unified pipeline; tail-sampling for storage cost reduction; layered alerting + standardized dashboards as a platform default
 
-#### Contact / 联系方式
-
 #### Support / 赞助
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/pingxin403)
 [![爱发电](https://img.shields.io/badge/爱发电-Support-946CE6?logo=appveyor&logoColor=white)](https://ifdian.net/a/pingxin403)
 
+#### Contact / 联系方式
 
 - 📫 Email — `pingxin0521 [at] 163.com`
 - 💼 GitHub — you're here
